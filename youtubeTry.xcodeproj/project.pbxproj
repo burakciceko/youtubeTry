@@ -17,6 +17,7 @@
 		342582D52552B5230052C85F /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 342582D42552B5230052C85F /* Video.swift */; };
 		342582D82552B5BB0052C85F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 342582D72552B5BB0052C85F /* Model.swift */; };
 		342582DC2552C4E30052C85F /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 342582DB2552C4E30052C85F /* ConstantsTemplate.swift */; };
+		347022FA25556BE800280734 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347022F925556BE800280734 /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		342582D42552B5230052C85F /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		342582D72552B5BB0052C85F /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		342582DB2552C4E30052C85F /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		347022F925556BE800280734 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				342582DB2552C4E30052C85F /* ConstantsTemplate.swift */,
 				342582D42552B5230052C85F /* Video.swift */,
 				342582D72552B5BB0052C85F /* Model.swift */,
+				347022F925556BE800280734 /* Response.swift */,
 				3424A702255192FC0010F79A /* Main.storyboard */,
 				3424A705255193010010F79A /* Assets.xcassets */,
 				3424A707255193010010F79A /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				347022FA25556BE800280734 /* Response.swift in Sources */,
 				342582DC2552C4E30052C85F /* ConstantsTemplate.swift in Sources */,
 				3424A701255192FC0010F79A /* ViewController.swift in Sources */,
 				3424A6FD255192FC0010F79A /* AppDelegate.swift in Sources */,
